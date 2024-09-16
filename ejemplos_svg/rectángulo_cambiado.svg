@@ -1,0 +1,14 @@
+<!-- Comienzo del documento  -->
+<!-- Con los atributos `width` y `height` se define el tamaño de la página 
+     que contiene el dibujo
+-->  
+ <svg width="1000" height="1000" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Dibujar un rectángulo rosa 
+   Atributos:  
+     * x,y: Coordenadas del punto superior izquierdo del rectangulo 
+     * width, height: Anchura y altura del rectángulo 
+     * fill: Color del relleno del rectángulo 
+  -->
+  <rect width="200" height="1000" x="100" y="100" fill="pink" />
+</svg> 

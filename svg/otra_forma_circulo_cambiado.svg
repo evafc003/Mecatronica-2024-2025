@@ -1,0 +1,9 @@
+<svg height="100" width="100" xmlns="http://www.w3.org/2000/svg">
+  <!--
+    Dibujar un círculo marron
+    Atributos:                   
+    * cx,cy: Centro del circulo  
+    * r: Radio                   
+  -->
+  <circle cx="70" cy="50" r="30" fill="brown" />
+</svg>

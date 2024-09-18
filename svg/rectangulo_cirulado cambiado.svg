@@ -1,0 +1,8 @@
+<!-- Comienzo del documento  -->
+ <svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Dibujar un rectángulo negro, con bordes redondeados -->
+  <!-- Atributos:  -->
+  <!-- * rx="30": Radio de redondeo de las esquinas -->
+  <rect x="100" y="100" width="300" height="200"  rx="30" fill="black" />
+</svg> 
